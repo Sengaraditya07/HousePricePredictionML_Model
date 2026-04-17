@@ -1,4 +1,3 @@
-# HousePricePredictionML_Model
 
 # House Price Prediction — Linear Regression
 
